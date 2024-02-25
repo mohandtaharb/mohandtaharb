@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohand Tahar</h1>
 <h3 align="center">A computer science student.</h3>
 
-- 🔭 I’m currently working on **A PNG decoding library**
-
-- 🌱 I’m currently learning **Systems programming and Back-end web development**
+- 🌱 I’m currently learning **Systems design and Back-end web development**
 
 - 📫 How to reach me **mt.belkebir@gmail.com**
 
